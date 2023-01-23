@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    //問題画面
+    <string name="question_label">問題文</string>
+    <string name="count_label">Q%d</string>
+    //今回は数値なので %d だが、文字列を入れる場合は %s を使用する。
+    <string name="btn_answer">選択肢</string>
+
+
+    //結果画面
+    <string name="result_title">結果</string>
+    <string name="result_score">%d / 5</string>
+    <string name="btn_try_again">もう一度</string>
+    
+    //サインイン画面
+    <string name="app_title">英単語4択クイズ</string>
+    <string name="siginup_title">ユーザー登録</string>
+    <string name="siginin_title">ログイン</string>
+    <string name="mail_text">メールアドレス</string>
+    <string name="password_text">パスワード</string>
+    <string name="password_signup_text">パスワード　(6文字以上で設定してください）</string>
+    <string name="siginup_btn">登録</string>
+    <string name="gameName">ニックネーム</string>
+
+</resources>
